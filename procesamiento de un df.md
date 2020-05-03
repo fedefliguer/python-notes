@@ -1,7 +1,7 @@
 ## Links a tutoriales:
-### Pandas: https://colab.research.google.com/drive/1WG62-rGLkBujg0VJZ6iy1E3Ffi5xxwcH#scrollTo=mXvIQxsFM-qW
-### Numpy: https://colab.research.google.com/drive/1_P-pi3ZuayPbmg5MqR6mb8H3UmIjoSCS
-### Gráficos: https://colab.research.google.com/drive/15gvykYuokTVL6rIQQcZfcR50Osnx3u_I#scrollTo=xNzEBRkzL3B0
+* Pandas: https://colab.research.google.com/drive/1WG62-rGLkBujg0VJZ6iy1E3Ffi5xxwcH#scrollTo=mXvIQxsFM-qW
+* Numpy: https://colab.research.google.com/drive/1_P-pi3ZuayPbmg5MqR6mb8H3UmIjoSCS
+* Gráficos: https://colab.research.google.com/drive/15gvykYuokTVL6rIQQcZfcR50Osnx3u_I#scrollTo=xNzEBRkzL3B0
 
 # Cheatsheet
 
