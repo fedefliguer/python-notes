@@ -23,6 +23,11 @@ final = final[['Fecha', 'Último_Precio']]                       # Definiendo ca
 df.filter(regex=("p.*b"))                                       # Con regex
 ```
 
+### Trasponer
+``` python
+df.T                                  
+```
+
 ## Columnas nuevas
 
 ### Crear columna con nombres de filas
