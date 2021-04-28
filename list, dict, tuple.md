@@ -2,6 +2,7 @@
 * Entre corchetes
 * Parte del lenguaje estandar
 * Se pueden modificar
+* Pueden haber valores duplicados
 ``` python
 l = [1, 2, "a"]
 ```
@@ -10,6 +11,7 @@ l = [1, 2, "a"]
 * Entre paréntesis
 * Parte del lenguaje estandar
 * Más rápidas que las listas, porque son inmutables
+* Pueden haber valores duplicados
 ``` python
 l = (1, 2, 3)
 ```
@@ -17,6 +19,7 @@ l = (1, 2, 3)
 ## Dicts
 * Secuencia de pares clave-valor
 * Parte del lenguaje estandar
+* Pueden haber valores duplicados, no claves duplicadas
 ``` python
 d = {'first':'string value', 'second':[1,2]}
 ```
