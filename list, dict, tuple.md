@@ -14,6 +14,13 @@ l = [1, 2, "a"]
 l = (1, 2, 3)
 ```
 
+## Dicts
+* Secuencia de pares clave-valor
+* Parte del lenguaje estandar
+``` python
+d = {'first':'string value', 'second':[1,2]}
+```
+
 ### Convertir dos listas a un diccionario
 ``` python
 keys = ['a', 'b', 'c']
